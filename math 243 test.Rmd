@@ -1,0 +1,12 @@
+---
+title: "Math 243 Test File"
+author: "Bhavjot Khurana"
+date: "9/1/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a test 
